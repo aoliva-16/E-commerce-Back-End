@@ -2,9 +2,9 @@
 
 ## Installation:
   ### You must install the following packages for the E-commerce Back End to function:
-  ### Express
-  ### Mysql2
-  ### Sequelize
+  ## Express
+  ## Mysql2
+  ## Sequelize
 
   ## Contributors:
   ### aoliva-16
